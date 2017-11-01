@@ -17,17 +17,17 @@ namespace CRUD
 
         public string ConnStr { get { return conn; } set { conn = value; } }
 
+        // initialization
         public CRUD()
         {
 
         }
 
+        // initialization with a connection string
         public CRUD(string ConnectionString)
         {
             conn = ConnectionString;
         }
-
-
 
         // execute all non-query sql statements, i.e. updates, deletes, etc.
         public void executeNonQuery(string sql, List<SqlParameter> parms)
