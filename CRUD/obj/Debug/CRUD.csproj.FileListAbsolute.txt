@@ -1,0 +1,4 @@
+C:\Users\bsteele\Documents\Visual Studio 2015\Projects\CRUD\CRUD\bin\Debug\CRUD.dll
+C:\Users\bsteele\Documents\Visual Studio 2015\Projects\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\bsteele\Documents\Visual Studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.dll
+C:\Users\bsteele\Documents\Visual Studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.pdb
