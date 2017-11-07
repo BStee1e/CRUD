@@ -125,10 +125,10 @@ namespace CRUD
                     }
                 }
             }
-            catch (SqlException sex)
+            catch (SqlException sqlex)
             {
                 err = true;
-                em = sex.Message + ": " + sex.Source;
+                em = sqlex.Message + ": " + sqlex.Source;
             }
             finally { conn.Close(); }
             return retVal;
